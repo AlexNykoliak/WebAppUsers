@@ -42,3 +42,9 @@ As a client (frontend part) we have simple UserInterface. Account can give us op
 - DRF
 # Deployment
 
+![Знімок екрана 2022-10-13 о 19 38 50](https://user-images.githubusercontent.com/105149923/195655430-40ed7718-736b-422f-a1f4-421971742dcb.png)
+![Знімок екрана 2022-10-13 о 19 38 57](https://user-images.githubusercontent.com/105149923/195655435-e61698c0-bc51-4bf5-80fc-e25ccae6905f.png)
+![Знімок екрана 2022-10-13 о 19 39 14](https://user-images.githubusercontent.com/105149923/195655453-79c92b83-a989-46c2-81ee-b56a0cb8ba1b.png)
+![Знімок екрана 2022-10-13 о 19 39 49](https://user-images.githubusercontent.com/105149923/195655463-6ff53bbd-2478-4f35-a4f8-7ecac75c36d7.png)
+
+
