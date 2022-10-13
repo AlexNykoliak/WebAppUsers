@@ -1,0 +1,68 @@
+<user_list>
+    <user>
+        <name>Users Test Task XML</name>
+        <company>CxDojo</company>
+        <users>
+            <user id="6">
+                <first_name>Max</first_name>
+                <last_name>St(dsa53d)eam</last_name>
+                <avatar>https://pbs.twimg.com/media/BcINeMVCIAABeWd.jpg</avatar>
+            </user>
+            <user id="1">
+                <first_name>Anton</first_name>
+                <last_name>Mechailov</last_name>
+                <avatar>https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35af6a41332353.57a1ce913e889.jpg</avatar>
+            </user>
+            <user id="54">
+                <first_name>Valerii</first_name>
+                <last_name>Jmishenko</last_name>
+                <avatar>https://static.boredpanda.com/blog/wp-content/uploads/2017/04/Virrappan2-58f79980ae6fb__880.jpg</avatar>
+            </user>
+            <user id="47">
+                <first_name>(Mov)</first_name>
+                <last_name>Stus</last_name>
+                <avatar>https://i.ytimg.com/vi/sgVHzNwthC0/maxresdefault.jpg</avatar>
+            </user>
+            <user id="23">
+                <first_name>Valeria (MSDAD ds 32d das)</first_name>
+                <last_name>Markus</last_name>
+                <avatar>https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg</avatar>
+            </user>
+            <user id="10">
+                <first_name>McMarry</first_name>
+                <last_name>Stone</last_name>
+                <avatar>https://photos.lensculture.com/large/5dd2fa6e-fe8d-469f-959b-46299ced511d.jpg</avatar>
+            </user>
+            <user id="85">
+                <first_name>Anton</first_name>
+                <last_name>Mecman( das (dsa ) )</last_name>
+                <avatar>https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/506829/original/Photo_on_2009-09-20_at_18.23_4/make-funny-faces-and-random-noises-to-random-people.jpg</avatar>
+            </user>
+            <user id="123">
+                <first_name>Wi(54)ll</first_name>
+                <last_name>Terman</last_name>
+                <avatar>https://i.pinimg.com/736x/e6/09/16/e609168f9d1daec1b16be6a1832a2dd7.jpg</avatar>
+            </user>
+            <user id="12">
+                <first_name></first_name>
+                <last_name>Mavic</last_name>
+                <avatar>https://cdn.ebaumsworld.com/mediaFiles/picture/2260628/84557512.jpg</avatar>
+            </user>
+            <user id="75">
+                <first_name>Artur</first_name>
+                <last_name></last_name>
+                <avatar>http://farm4.static.flickr.com/3134/2371236790_8f973e4469.jpg</avatar>
+            </user>
+            <user id="10">
+                <first_name>Ko(SELECT name FROM user;)lin</first_name>
+                <last_name>Hex</last_name>
+                <avatar>https://www.randomlists.com/img/people/john_bon_jovi.webp</avatar>
+            </user>
+            <user id="4234">
+                <first_name></first_name>
+                <last_name></last_name>
+                <avatar>https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/15345c41332353.57a1ce9141249.jpg</avatar>
+            </user>
+        </users>
+    </user>
+</user_list>
