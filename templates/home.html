@@ -3,7 +3,7 @@
 {% block content %}
     {% for user in object_list %}
         <div class="user-entry">
-            <h2><a href="">{{ user.username }}</a></h2>
+            <h2><a href="{% url 'user_detail' user.pk %}">{{ user.username }}</a></h2>
             <p>{{ user.date_joined }}</p>
         </div>
     {% endfor %}
