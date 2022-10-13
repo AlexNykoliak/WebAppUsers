@@ -40,7 +40,6 @@ As a client (frontend part) we have simple UserInterface. Account can give us op
 
 - Django
 - DRF
-
 # Deployment
 
-# 
+![My Remote Image](https://drive.google.com/file/d/1IP_zlOcnRV_1e2aFVjsElpsiuM9sX6GC/view?usp=sharing)
