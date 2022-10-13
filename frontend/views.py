@@ -1,3 +1,12 @@
-from django.shortcuts import render
+from django.views.generic import ListView
 
-# Create your views here.
+from backend.models import User
+
+
+class UserListView(ListView):
+    model = User
+    template_name = 'home.html'
+
+
+
+
