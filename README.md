@@ -1,11 +1,7 @@
 # WebAppUsers
 # Web application on the Django 4.1 framework. The application match XML and CSV files with user information.
 
-This system allows to search through Users info. The application match XML and
-CSV files with user information.
-
-The main goal of this system, make the process of searching info easy and tracked.
-
+This system allows to search through Users info. The application match XML and CSV files with user information.The main goal of this system, make the process of searching info easy and tracked.
 
 Frontend coverage  
 < insert badge here >
