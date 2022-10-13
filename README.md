@@ -14,6 +14,7 @@ Backend coverage
 < insert badge here >
 
 # Firing up project:
+
 With docker-compose:
 ``
 - 
@@ -35,9 +36,8 @@ To use api you need:
 
 # Architecture
 
-Apllictions is devided into two parts: backend and frontend. Backend part is an API on DRF that provides opportunity to receive Users's info
-
-As a client (frontend part) we have simple UserInterface
+Aplliction is devided into two parts: backend, frontend, account. Backend part is an API on DRF that provides opportunity to receive Users's info
+As a client (frontend part) we have simple UserInterface. Account can give us opportunity to login/logout/signup.
 
 
 # TechStack 
